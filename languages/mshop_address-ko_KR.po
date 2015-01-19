@@ -1,0 +1,1188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mshop_address\n"
+"POT-Creation-Date: 2014-12-01 13:53+0900\n"
+"PO-Revision-Date: 2014-12-01 13:53+0900\n"
+"Last-Translator: Alan <alan@codemstory.com>\n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/"
+"plugins/mshop-address-ex\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/"
+"plugins/mshop-address-ex\n"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/post-types/writepanels/writepanel-order_data.php:24
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/post-types/writepanels/writepanel-order_data.php:45
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:29
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-form-fields.php:90
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-form-fields.php:123
+msgid "Address"
+msgstr "주소"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/post-types/writepanels/writepanel-order_data.php:28
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/post-types/writepanels/writepanel-order_data.php:49
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-form-fields.php:134
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:156
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:177
+msgid "Phone"
+msgstr "전화번호"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:50
+msgid "Address Option"
+msgstr "주소 설정"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:53
+msgid "플러그인 활성화"
+msgstr "플러그인 활성화"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:60
+msgid "내정보 수정 페이지"
+msgstr "내정보 수정 페이지"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:68
+msgid "Custom CSS"
+msgstr "사용자정의 CSS"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:91
+msgid "플러그인 인증 실패 : 입력값을 확인후 다시 시도해주세요."
+msgstr "플러그인 인증 실패 : 입력값을 확인후 다시 시도해주세요."
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:97
+msgid "플러그인 인증 필요"
+msgstr "플러그인 인증 필요"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:98
+msgid ""
+"<a href=\"http://www.codemshop.com\" target=\"_blank\">http://www.codemshop."
+"com</a>에 가입하신 후, [내 계정] 에서 발급되는 인증키를 등록하여 주세요."
+msgstr ""
+"<a href=\"http://www.codemshop.com\" target=\"_blank\">http://www.codemshop."
+"com</a>에 가입하신 후, [내 계정] 에서 발급되는 인증키를 등록하여 주세요."
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:101
+msgid "회원 이메일"
+msgstr "회원 이메일"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:102
+msgid "인증키"
+msgstr "인증키"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/admin/settings/class-mshop-settings-address.php:106
+msgid "인증"
+msgstr "인증"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-admin-profile.php:36
+msgid "Customer Billing Address"
+msgstr "청구지 주소"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-admin-profile.php:40
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-admin-profile.php:69
+msgid "이름"
+msgstr "이름"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-admin-profile.php:52
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-admin-profile.php:81
+msgid "Telephone"
+msgstr "전화번호"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-admin-profile.php:58
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-admin-profile.php:87
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:153
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:174
+msgid "Email"
+msgstr "이메일"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-admin-profile.php:65
+msgid "Customer Shipping Address"
+msgstr "배송지 주소"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-form-fields.php:127
+msgid "Email Address"
+msgstr "이메일"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:149
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:170
+msgid "First Name"
+msgstr "이름"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:315
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:317
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:325
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:327
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:332
+#: /Applications/XAMPP/xamppfiles/htdocs/wp40/wp-content/plugins/mshop-address-ex/classes/class-mshop-address-writepanel-orders.php:334
+msgid "is a required field."
+msgstr "를 입력해주세요."
+
+#~ msgid "Address Input Method"
+#~ msgstr "주소 입력 방법"
+
+#~ msgid "bronze_member"
+#~ msgstr "일반회원"
+
+#~ msgid "silver_member"
+#~ msgstr "구매회원"
+
+#~ msgid "gold_member"
+#~ msgstr "우수회원"
+
+#~ msgid "=== Select Shopping Mall Category ==="
+#~ msgstr "=== 쇼핑몰 분류를 선택해주세요 ==="
+
+#~ msgid "Fashion / General Clothing"
+#~ msgstr "패션/종합의류"
+
+#~ msgid "Fashion / Women's Clothing"
+#~ msgstr "패션/여성의류"
+
+#~ msgid "Fashion / Men's Clothing"
+#~ msgstr "패션/남성의류"
+
+#~ msgid "Fashion / Children's Clothing"
+#~ msgstr "패션/아동의류"
+
+#~ msgid "Fashion Accessories"
+#~ msgstr "패션잡화"
+
+#~ msgid "Electronics / cell phone / Games"
+#~ msgstr "가전/휴대폰/게임"
+
+#~ msgid "Computer Peripherals"
+#~ msgstr "컴퓨터주변기기"
+
+#~ msgid "Accessories"
+#~ msgstr "액세서리"
+
+#~ msgid "Cosmetics / Perfume / Beauty"
+#~ msgstr "화장품/향수/미용"
+
+#~ msgid "Leisure / Sports / Cars"
+#~ msgstr "레저/스포츠/자동차"
+
+#~ msgid "Instruments / Hobbies / Pets"
+#~ msgstr "악기/취미/애완"
+
+#~ msgid "Health / Fitness / Diet"
+#~ msgstr "건강/헬스/다이어트"
+
+#~ msgid "Furniture / Interior"
+#~ msgstr "가구/인테리어"
+
+#~ msgid "Living / Kitchen"
+#~ msgstr "생활/주방"
+
+#~ msgid "Bedding / Curtains"
+#~ msgstr "침구/커튼"
+
+#~ msgid "Baby / Maternity"
+#~ msgstr "유아동/출산"
+
+#~ msgid "Food"
+#~ msgstr "식품"
+
+#~ msgid "Agricultural"
+#~ msgstr "농수산물"
+
+#~ msgid "Books"
+#~ msgstr "서적"
+
+#~ msgid "Etc."
+#~ msgstr "기타"
+
+#~ msgid "pending"
+#~ msgstr "신규주문"
+
+#~ msgid "on-hold"
+#~ msgstr "입금확인중"
+
+#~ msgid "order-received"
+#~ msgstr "주문접수"
+
+#~ msgid "processing"
+#~ msgstr "발주확인"
+
+#~ msgid "delayed"
+#~ msgstr "출고지연"
+
+#~ msgid "shipping"
+#~ msgstr "출고처리"
+
+#~ msgid "shipped"
+#~ msgstr "출고완료"
+
+#~ msgid "completed"
+#~ msgstr "주문처리완료"
+
+#~ msgid "cancel-request"
+#~ msgstr "주문취소요청"
+
+#~ msgid "cancelled"
+#~ msgstr "취소완료"
+
+#~ msgid "failed"
+#~ msgstr "실패"
+
+#~ msgid "Shipping Options"
+#~ msgstr "배송 설정"
+
+#~ msgid "Email Options"
+#~ msgstr "이메일 옵션"
+
+#~ msgid "Preview favicon"
+#~ msgstr "파비콘 미리보기"
+
+#~ msgid "Standard size is 16x16 pixels, the extension is .ico."
+#~ msgstr "기준 크기는 16x16 픽셀, 확장자는 .ico 입니다."
+
+#~ msgid "Return / exchange shipping costs (one-way basis)"
+#~ msgstr "반품/교환 배송비(편도기준)"
+
+#~ msgid "Won"
+#~ msgstr "원"
+
+#~ msgid ""
+#~ "*If return / exchange shipping cost is $0, it will be free return / "
+#~ "exchange. So, please confirm the exact cost."
+#~ msgstr ""
+#~ "*반품/교환배송비를 0원으로 입력하는 경우 무료반품/교환으로 설정되니 금액"
+#~ "을 정확히 확인하시기 바랍니다."
+
+#~ msgid "Select domestic courier"
+#~ msgstr "국내 택배사 선택"
+
+#~ msgid "Select international courier"
+#~ msgstr "국제 택배사 선택"
+
+#~ msgid "Total"
+#~ msgstr "합계"
+
+#~ msgid "MShop General Setting"
+#~ msgstr "일반 설정"
+
+#~ msgid "Seller Information"
+#~ msgstr "사업자 정보"
+
+#~ msgid "Mall Information"
+#~ msgstr "쇼핑몰 정보"
+
+#~ msgid "Mall Agreement"
+#~ msgstr "쇼핑몰 이용약관"
+
+#~ msgid "Shipping"
+#~ msgstr "배송"
+
+#~ msgid "Shipping Place"
+#~ msgstr "배송지 설정"
+
+#~ msgid "Shipping Company"
+#~ msgstr "배송업체 설정"
+
+#~ msgid "Payment Gateways"
+#~ msgstr "결제수단 설정"
+
+#~ msgid "General Options"
+#~ msgstr "기본 설정"
+
+#~ msgid "Store Notice"
+#~ msgstr "공지사항 노출"
+
+#~ msgid "Enable site-wide store notice text"
+#~ msgstr "사용"
+
+#~ msgid "Store Notice Text"
+#~ msgstr "공지사항 문구"
+
+#~ msgid "Cart, Checkout and Accounts"
+#~ msgstr "쇼핑몰 이용 설정"
+
+#~ msgid "Checkout"
+#~ msgstr "결제"
+
+#~ msgid "Enable guest checkout (no account required)"
+#~ msgstr "비회원 주문가능"
+
+#~ msgid "Enable customer note field on checkout"
+#~ msgstr "결재시 배송 요청사항 입력 허용"
+
+#~ msgid "Force secure checkout"
+#~ msgstr "결제 시 보안적용"
+
+#~ msgid ""
+#~ "Force SSL (HTTPS) on the checkout pages (an SSL Certificate is required)."
+#~ msgstr ""
+#~ "결제 페이지에서 SSL(보안) 사용합니다 (체크시에, 보안통신을 하는 HTTPS 주소"
+#~ "로 이동됩니다, SSL 인증서가 있어야 합니다)"
+
+#~ msgid "Registration"
+#~ msgstr "회원가입"
+
+#~ msgid "Allow registration on the checkout page"
+#~ msgstr "결제 페이지에서 회원가입 가능"
+
+#~ msgid "Allow registration on the \"My Account\" page"
+#~ msgstr "내 계정 페이지에서 회원가입 가능"
+
+#~ msgid "Register using the email address for the username"
+#~ msgstr "이메일로 회원가입 (사용자 이름 필요없음)"
+
+#~ msgid "Company Basic Information"
+#~ msgstr "사업자 기본 정보"
+
+#~ msgid "Company Name"
+#~ msgstr "회사명(법인명)"
+
+#~ msgid "Representatives Name"
+#~ msgstr "대표자명"
+
+#~ msgid "Business Registration Number"
+#~ msgstr "사업자등록번호"
+
+#~ msgid "Mail Order Registration Number"
+#~ msgstr "통신판매 신고번호"
+
+#~ msgid "Business Category"
+#~ msgstr "업태"
+
+#~ msgid "Business Item"
+#~ msgstr "종목"
+
+#~ msgid "Representative telephone"
+#~ msgstr "대표전화"
+
+#~ msgid "Privacy Officer"
+#~ msgstr "개인정보보호 관리책임자"
+
+#~ msgid "Site Manager"
+#~ msgstr "사이트 관리자"
+
+#~ msgid "Administrator E-Mail"
+#~ msgstr "관리자 이메일"
+
+#~ msgid "Shopping Mall Category"
+#~ msgstr "쇼핑몰 분류"
+
+#~ msgid "Store Authentication"
+#~ msgstr "쇼핑몰 인증"
+
+#~ msgid "Authentication Key"
+#~ msgstr "인증키"
+
+#~ msgid ""
+#~ "<br/><p style=\"font-style:normal\">You can check the CodeM Shop site "
+#~ "(http://www.codemshop.com) in my page, please enter the authentication "
+#~ "key value.</p>"
+#~ msgstr ""
+#~ "<br/><p style=\"font-style:normal\">코드엠샵(http://www.codemshop.com) 사"
+#~ "이트 마이페이지에서 확인할수 있는 인증키값을 입력하여 주세요.</p>"
+
+#~ msgid "Store Information"
+#~ msgstr "쇼핑몰 정보"
+
+#~ msgid "Store Name"
+#~ msgstr "쇼핑몰 이름"
+
+#~ msgid "Store Domain"
+#~ msgstr "쇼핑몰 도메인"
+
+#~ msgid "Store Title"
+#~ msgstr "쇼핑몰 타이틀"
+
+#~ msgid "Store Favicon"
+#~ msgstr "쇼핑몰 파비콘"
+
+#~ msgid "Store Description"
+#~ msgstr "쇼핑몰 설명"
+
+#~ msgid "Store Search Keyword"
+#~ msgstr "쇼핑몰 키워드"
+
+#~ msgid "Store Terms and Conditions"
+#~ msgstr "쇼핑몰 이용약관"
+
+#~ msgid "Purpose of collecting personal information"
+#~ msgstr "개인정보 수집목적"
+
+#~ msgid "Personal Information Collection items"
+#~ msgstr "개인정보 수집항목"
+
+#~ msgid "Term retention and use of personal information"
+#~ msgstr "개인정보 보유 및 이용기간"
+
+#~ msgid "Store Terms and Conditions for Guest User"
+#~ msgstr "쇼핑몰 이용약관(비회원용)"
+
+#~ msgid "Providing personal information third-party consent"
+#~ msgstr "개인정보 제3자 제공동의"
+
+#~ msgid "Shipping Calculations"
+#~ msgstr "배송 요금 표기"
+
+#~ msgid "Enable shipping"
+#~ msgstr "배송방법 표기"
+
+#~ msgid "Enable the shipping calculator on the cart page"
+#~ msgstr "장바구니에 배송 비용 표기"
+
+#~ msgid "Hide shipping costs until an address is entered"
+#~ msgstr "주소 입력 시 배송 비용 노출(주소가 입력될 때까지 배송 비용 숨기기)"
+
+#~ msgid "Shipping Method Display"
+#~ msgstr "배송 방법 표시"
+
+#~ msgid "Radio buttons"
+#~ msgstr "라디오 버튼"
+
+#~ msgid "Select box"
+#~ msgstr "셀렉트 박스"
+
+#~ msgid "Ship to billing address by default"
+#~ msgstr "기본 주소로 배송"
+
+#~ msgid "Only ship to the users billing address"
+#~ msgstr "배송주소 필요 없음"
+
+#~ msgid "Collect shipping address even when not required"
+#~ msgstr "배송주소 별도 입력"
+
+#~ msgid "Products shipped place"
+#~ msgstr "상품 출하지"
+
+#~ msgid "Products shipped address"
+#~ msgstr "출하지 주소"
+
+#~ msgid "Returned or exchanged place"
+#~ msgstr "반품/교환지"
+
+#~ msgid "Returned or exchanged address"
+#~ msgstr "반품/교환주소"
+
+#~ msgid "Returned or exchanged contacts (cellphone)"
+#~ msgstr "반품/교환 연락처(휴대폰)"
+
+#~ msgid "Returned or exchanged contacts (landline phone)"
+#~ msgstr "반품/교환 연락처(일반전화)"
+
+#~ msgid "Returned or exchanged shipping company"
+#~ msgstr "반품/교환 택배사"
+
+#~ msgid "Shipping Companies Set"
+#~ msgstr "배송업체 설정"
+
+#~ msgid "Select domestic couriers"
+#~ msgstr "국내 택배사 선택"
+
+#~ msgid "Select International couriers"
+#~ msgstr "해외 택배사 선택"
+
+#~ msgid "Email Template"
+#~ msgstr "이메일 템플릿 설정"
+
+#~ msgid "Header Image"
+#~ msgstr "로고 이미지"
+
+#~ msgid "Email Footer Text"
+#~ msgstr "이메일 Footer"
+
+#~ msgid "The text to appear in the footer of WooCommerce emails."
+#~ msgstr "이메일 하단에 들어갈 정보를 입력 해주세요."
+
+#~ msgid "Base Colour"
+#~ msgstr "기본 색상"
+
+#~ msgid "Background Colour"
+#~ msgstr "백그라운드 색상"
+
+#~ msgid "Email Body Background Colour"
+#~ msgstr "이메일 본문의 배경 색상"
+
+#~ msgid "Email Body Text Colour"
+#~ msgstr "이메일 본문 텍스트 색상"
+
+#~ msgid "Terms and Conditions"
+#~ msgstr "쇼핑몰 이용약관"
+
+#~ msgid "Terms and Conditions for Guest"
+#~ msgstr "쇼핑몰 이용약관(비회원용)"
+
+#~ msgid "Admin new order"
+#~ msgstr "관리자 주문접수"
+
+#~ msgid "New order emails are sent to admin when an order is received."
+#~ msgstr ""
+#~ "신규 주문이 접수가 되었을때, 관리자에게 신규 주문 접수 이메일을 보냅니다."
+
+#~ msgid "{blogname} | New orders were received."
+#~ msgstr "{blogname} | 신규 주문이 접수 되었습니다."
+
+#~ msgid "{blogname} | New orders received"
+#~ msgstr "{blogname} | 신규 주문 접수"
+
+#~ msgid "Enable/Disable"
+#~ msgstr "사용"
+
+#~ msgid "Plain text"
+#~ msgstr "텍스트"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Customer invoice"
+#~ msgstr "출고처리"
+
+#~ msgid ""
+#~ "Customer invoice emails can be sent to the user containing order info and "
+#~ "payment links."
+#~ msgstr "주문 상품이 출고가 된 경우 발송되는 이메일입니다."
+
+#~ msgid "Invoice for order {order_number} from {order_date}"
+#~ msgstr "{blogname} | 회원님 상품이 출고되었습니다."
+
+#~ msgid "Invoice for order {order_number}"
+#~ msgstr "{blogname} | 배송안내"
+
+#~ msgid "Email subject"
+#~ msgstr "이메일 제목"
+
+#~ msgid "Email heading"
+#~ msgstr "이메일 헤더"
+
+#~ msgid "New account"
+#~ msgstr "회원가입"
+
+#~ msgid ""
+#~ "Customer new account emails are sent when a customer signs up via the "
+#~ "checkout or My Account page."
+#~ msgstr ""
+#~ "고객이 결제시 또는 내 계정 페이지를 통해 가입시에 발송되는 회원 가입 이메"
+#~ "일입니다."
+
+#~ msgid "Your account on {blogname}"
+#~ msgstr "{blogname} | 회원님 환영합니다."
+
+#~ msgid "Welcome to {blogname}"
+#~ msgstr "{blogname} | 회원 가입 안내"
+
+#~ msgid "Processing order"
+#~ msgstr "발주확인"
+
+#~ msgid ""
+#~ "This is an order notification sent to the customer after payment "
+#~ "containing order details."
+#~ msgstr ""
+#~ "결제가 된 주문이 접수가 된 경우 고객에게 발송되는 주문 상세 이메일입니다. "
+
+#~ msgid "Thank you for your order"
+#~ msgstr "{blogname] | 주문접수 안내"
+
+#~ msgid "Your {blogname} order receipt from {order_date}"
+#~ msgstr "{blogname} | 주문 내역서"
+
+#~ msgid "Reset password"
+#~ msgstr "암호 재설정"
+
+#~ msgid ""
+#~ "Customer reset password emails are sent when a customer resets their "
+#~ "password."
+#~ msgstr ""
+#~ "비밀번호를 잃어버린 회원이 재설정한 경우 발송되는 비밀번호 재설정 이메일입"
+#~ "니다."
+
+#~ msgid "Customer new order"
+#~ msgstr "무통장 입금"
+
+#~ msgid "you can setting email options for Wire transfer"
+#~ msgstr "무통장 입금 이메일 옵션을 설정할 수 있습니다."
+
+#~ msgid "{blogname} | Ask for payment processing."
+#~ msgstr "{blogname} | 입금처리 부탁드립니다."
+
+#~ msgid "{blogname} | Wire transfer instructions"
+#~ msgstr "{blogname} | 무통장 입금 안내"
+
+#~ msgid "BACS Payment"
+#~ msgstr "무통장 입금"
+
+#~ msgid ""
+#~ "Allows payments by BACS (Bank Account Clearing System), more commonly "
+#~ "known as direct bank/wire transfer."
+#~ msgstr " "
+
+#~ msgid "Enable Bank Transfer"
+#~ msgstr "무통장 입금"
+
+#~ msgid "Title"
+#~ msgstr "이름"
+
+#~ msgid "Customer Message"
+#~ msgstr "고객 메시지"
+
+#~ msgid ""
+#~ "Give the customer instructions for paying via BACS, and let them know "
+#~ "that their order won't be shipping until the money is received."
+#~ msgstr " "
+
+#~ msgid "Account Details"
+#~ msgstr "무통장 입금 계좌정보"
+
+#~ msgid "Optionally enter your bank details below for customers to pay into."
+#~ msgstr "고객으로 부터 송금 받을 은행 계좌 정보를 입력해주세요."
+
+#~ msgid "Account Name"
+#~ msgstr "예금주"
+
+#~ msgid "Account Number"
+#~ msgstr "계좌번호"
+
+#~ msgid "Bank Name"
+#~ msgstr "은행명 "
+
+#~ msgid "(old)address"
+#~ msgstr "(구)주소"
+
+#~ msgid "Road name address"
+#~ msgstr "도로명주소"
+
+#~ msgid "Enter your address to find."
+#~ msgstr "찾을 동명 입력"
+
+#~ msgid "search"
+#~ msgstr "검색"
+
+#~ msgid "select"
+#~ msgstr "선택"
+
+#~ msgid "cancel"
+#~ msgstr "취소"
+
+#~ msgid "Post number"
+#~ msgstr "우편번호"
+
+#~ msgid "Base address"
+#~ msgstr "기본주소"
+
+#~ msgid "Detail address"
+#~ msgstr "상세주소"
+
+#~ msgid "Processing"
+#~ msgstr "발주확인"
+
+#~ msgid "You do not have sufficient permissions to access this page."
+#~ msgstr "권한이 없는 페이지에 접근하셨습니다. "
+
+#, fuzzy
+#~ msgid "Failed"
+#~ msgstr "실패"
+
+#~ msgid "Guest"
+#~ msgstr "비회원"
+
+#, fuzzy
+#~ msgid "Philippine Pesos"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Description"
+#~ msgstr "회원가입"
+
+#, fuzzy
+#~ msgid "Additional Information"
+#~ msgstr "쇼핑몰 정보"
+
+#, fuzzy
+#~ msgid "Shipping Classes"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Shipping Class"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Search Shipping Classes"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "All Shipping Classes"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Parent Shipping Class"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Parent Shipping Class:"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Edit Shipping Class"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Update Shipping Class"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Add New Shipping Class"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "New Shipping Class Name"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Edit Variation"
+#~ msgstr "회원가입"
+
+#, fuzzy
+#~ msgid "Orders"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order by"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "General"
+#~ msgstr "기본 설정"
+
+#, fuzzy
+#~ msgid "Integration"
+#~ msgstr "회원가입"
+
+#, fuzzy
+#~ msgid "For more information:"
+#~ msgstr "사업자 정보"
+
+#, fuzzy
+#~ msgid "Pending"
+#~ msgstr "신규주문"
+
+#, fuzzy
+#~ msgid "Completed"
+#~ msgstr "주문처리완료"
+
+#, fuzzy
+#~ msgid "Total:"
+#~ msgstr "합계"
+
+#, fuzzy
+#~ msgid "Order Received"
+#~ msgstr "주문접수"
+
+#, fuzzy
+#~ msgid "Order:"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order total:"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Shipping address"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Mark processing"
+#~ msgstr "발주확인"
+
+#, fuzzy
+#~ msgid "Mark completed"
+#~ msgstr "주문처리완료"
+
+#, fuzzy
+#~ msgid "Order saved."
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order notes"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Total sales"
+#~ msgstr "합계"
+
+#, fuzzy
+#~ msgid "Total shipping costs"
+#~ msgstr "배송방법 표기"
+
+#, fuzzy
+#~ msgid "Total Sales"
+#~ msgstr "합계"
+
+#, fuzzy
+#~ msgid "Total Shipping"
+#~ msgstr "배송"
+
+#, fuzzy
+#~ msgid "Total Shipping Taxes"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Total Taxes"
+#~ msgstr "합계"
+
+#, fuzzy
+#~ msgid "Tax Options"
+#~ msgstr "기본 설정"
+
+#, fuzzy
+#~ msgid "Order Statuses"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Shipping Address"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Company"
+#~ msgstr "배송업체 설정"
+
+#, fuzzy
+#~ msgid "New Sorting Options"
+#~ msgstr "배송 설정"
+
+#, fuzzy
+#~ msgid "Order Total"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order Notes"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Customer Notes"
+#~ msgstr "공지사항 노출"
+
+#~ msgid "Order %s"
+#~ msgstr "주문번호 : %s"
+
+#~ msgid "made by"
+#~ msgstr ", 고객명 : "
+
+#~ msgid "Tel:"
+#~ msgstr "전화번호 : "
+
+#~ msgid "Via"
+#~ msgstr "처리방법 : "
+
+#, fuzzy
+#~ msgid "Complete"
+#~ msgstr "주문처리완료"
+
+#, fuzzy
+#~ msgid "Subtotal"
+#~ msgstr "합계"
+
+#, fuzzy
+#~ msgid "Shipping Tax:"
+#~ msgstr "배송"
+
+#, fuzzy
+#~ msgid "Shipping class:"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Enable free shipping"
+#~ msgstr "배송방법 표기"
+
+#, fuzzy
+#~ msgid "Order Details"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order number"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "General Details"
+#~ msgstr "기본 설정"
+
+#, fuzzy
+#~ msgid "Order status:"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order Date:"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Customer Note:"
+#~ msgstr "공지사항 노출"
+
+#, fuzzy
+#~ msgid "No billing address set."
+#~ msgstr "기본 주소로 배송"
+
+#, fuzzy
+#~ msgid "Load billing address"
+#~ msgstr "기본 주소로 배송"
+
+#, fuzzy
+#~ msgid "Shipping Details"
+#~ msgstr "배송 설정"
+
+#, fuzzy
+#~ msgid "Totals"
+#~ msgstr "합계"
+
+#, fuzzy
+#~ msgid "Order Discount:"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Tax Totals"
+#~ msgstr "합계"
+
+#, fuzzy
+#~ msgid "Order Totals"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order Total:"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Link all variations"
+#~ msgstr "배송 요금 표기"
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "취소완료"
+
+#, fuzzy
+#~ msgid "Shipping only"
+#~ msgstr "배송업체 설정"
+
+#, fuzzy
+#~ msgid "No shipping class"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Shipping class"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Order Data"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order Items"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order Actions"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Enable Lightbox"
+#~ msgstr "배송방법 표기"
+
+#, fuzzy
+#~ msgid "Access Restriction"
+#~ msgstr "회원가입"
+
+#, fuzzy
+#~ msgid "Checkout Page"
+#~ msgstr "결제"
+
+#, fuzzy
+#~ msgid "Catalog Options"
+#~ msgstr "기본 설정"
+
+#, fuzzy
+#~ msgid "Shop Page Display"
+#~ msgstr "배송 방법 표시"
+
+#, fuzzy
+#~ msgid "Pricing Options"
+#~ msgstr "배송 설정"
+
+#, fuzzy
+#~ msgid "Image Options"
+#~ msgstr "기본 설정"
+
+#, fuzzy
+#~ msgid "Inventory Options"
+#~ msgstr "기본 설정"
+
+#, fuzzy
+#~ msgid "Customer billing address"
+#~ msgstr "배송주소 필요 없음"
+
+#, fuzzy
+#~ msgid "Shipping Tax Class:"
+#~ msgstr "배송지 설정"
+
+#, fuzzy
+#~ msgid "Rounding"
+#~ msgstr "신규주문"
+
+#, fuzzy
+#~ msgid "Email Sender Options"
+#~ msgstr "기본 설정"
+
+#, fuzzy
+#~ msgid "Shipping Methods"
+#~ msgstr "배송 방법 표시"
+
+#, fuzzy
+#~ msgid "Shipping Method"
+#~ msgstr "배송 방법 표시"
+
+#, fuzzy
+#~ msgid "via"
+#~ msgstr "처리방법 : "
+
+#, fuzzy
+#~ msgid "Order &ndash; %s"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Invalid shipping method."
+#~ msgstr "배송방법 표기"
+
+#, fuzzy
+#~ msgid "Philippines"
+#~ msgstr "출고처리"
+
+#, fuzzy
+#~ msgid "Region"
+#~ msgstr "회원가입"
+
+#, fuzzy
+#~ msgid "Shipping:"
+#~ msgstr "배송"
+
+#, fuzzy
+#~ msgid "Completed order"
+#~ msgstr "주문처리완료"
+
+#, fuzzy
+#~ msgid "Enable for shipping methods"
+#~ msgstr "배송방법 표기"
+
+#, fuzzy
+#~ msgid "Mijireh Checkout"
+#~ msgstr "결제"
+
+#, fuzzy
+#~ msgid "Shipping options"
+#~ msgstr "배송 설정"
+
+#, fuzzy
+#~ msgid "Shipping details"
+#~ msgstr "배송 설정"
+
+#, fuzzy
+#~ msgid "Enable logging"
+#~ msgstr "배송방법 표기"
+
+#, fuzzy
+#~ msgid "Shipping via"
+#~ msgstr "배송"
+
+#, fuzzy
+#~ msgid "IPN payment completed"
+#~ msgstr "주문처리완료"
+
+#, fuzzy
+#~ msgid "Order reversed"
+#~ msgstr "주문접수"
+
+#, fuzzy
+#~ msgid "Create an account"
+#~ msgstr "쇼핑몰 이용 설정"
+
+#, fuzzy
+#~ msgid "Enable this shipping method"
+#~ msgstr "배송방법 표기"
+
+#, fuzzy
+#~ msgid "Free Shipping"
+#~ msgstr "배송"
+
+#, fuzzy
+#~ msgid "Enable Free Shipping"
+#~ msgstr "배송방법 표기"
+
+#, fuzzy
+#~ msgid "Shipping costs updated."
+#~ msgstr "배송업체 설정"
+
+#, fuzzy
+#~ msgid "Order Updates"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order by:"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Vas"
+#~ msgstr "처리방법 : "
+
+#, fuzzy
+#~ msgid "Checkout &rarr;"
+#~ msgstr "결제"
+
+#, fuzzy
+#~ msgid "Calculate Shipping"
+#~ msgstr "배송방법 표기"
+
+#, fuzzy
+#~ msgid "Cart Totals"
+#~ msgstr "합계"
+
+#, fuzzy
+#~ msgid "Order Discount"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Create an account?"
+#~ msgstr "쇼핑몰 이용 설정"
+
+#, fuzzy
+#~ msgid "Ship to billing address?"
+#~ msgstr "기본 주소로 배송"
+
+#, fuzzy
+#~ msgid "Order: %s"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order number: %s"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order date: %s"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Select options"
+#~ msgstr "사업자 정보"
+
+#, fuzzy
+#~ msgid "Register"
+#~ msgstr "회원가입"
+
+#, fuzzy
+#~ msgid "Order ID"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "Order Again"
+#~ msgstr "주문번호 : %s"
+
+#, fuzzy
+#~ msgid "and was completed"
+#~ msgstr "주문처리완료"
